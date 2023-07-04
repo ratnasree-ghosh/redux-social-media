@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redux-social-media/static/css/main.eee38de9.css",
+    "main.js": "/redux-social-media/static/js/main.d0616c97.js",
+    "index.html": "/redux-social-media/index.html",
+    "main.eee38de9.css.map": "/redux-social-media/static/css/main.eee38de9.css.map",
+    "main.d0616c97.js.map": "/redux-social-media/static/js/main.d0616c97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eee38de9.css",
+    "static/js/main.d0616c97.js"
+  ]
+}
